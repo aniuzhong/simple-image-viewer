@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "libjpeg-turbo",
+    {
+      "name": "lcms",
+      "features": [ "fastfloat", "threaded", "tools" ]
+    }
+  ]
+}
